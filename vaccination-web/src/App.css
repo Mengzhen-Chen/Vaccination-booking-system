@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+}
+
+.custom-btn-toolbar {
+  display: inline !important;
+}
+
+.custom-btn-toolbar > .btn {
+  margin-right: 1rem;
+}
+
+.appContainer {
+  padding: 50px 150px 50px 150px;
+  background-color: aliceblue;
+}
